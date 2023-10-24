@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Peddana&display=swap');
 
+body{
+
+    background-color: #F3F3F3 !important; 
+}
 .navbar{
     background-color: #F3F3F3 !important; 
     
@@ -14,3 +18,8 @@ a {
     font-family: 'Peddana', serif;
     
 }
+
+/* .card{
+    height: 20% !important;
+    
+} */
