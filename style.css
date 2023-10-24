@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Peddana&display=swap');
+
+.navbar{
+    background-color: #F3F3F3 !important; 
+    
+}
+
+.carousel-text{
+    color: rgb(77, 77, 77) !important;
+}
+
+a {
+    font-family: 'Peddana', serif;
+    
+}
