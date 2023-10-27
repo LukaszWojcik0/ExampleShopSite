@@ -3,19 +3,20 @@
 
 body{
 
-    background-color: #F3F3F3 !important; 
+    background-color: #F1F0E8 !important; 
 }
 .navbar{
-    background-color: #F3F3F3 !important; 
+    background-color: #F1F0E8 !important; 
     
 }
 
 .carousel-text{
-    color: rgb(77, 77, 77) !important;
+    color: #96B6C5 !important;
 }
 
 a {
     font-family: 'Peddana', serif;
+    color: #96B6C5 !important;
     
 }
 
