@@ -1,25 +1,44 @@
-@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Peddana&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Pattaya&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Peddana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap");
 
-body{
-
-    background-color: #F1F0E8 !important; 
+body {
+  background-color: #f1f0e8 !important;
 }
-.navbar{
-    background-color: #F1F0E8 !important; 
-    
+.navbar {
+  background-color: #f1f0e8 !important;
 }
 
-.carousel-text{
-    color: #96B6C5 !important;
+.carousel-text {
+  color: #96b6c5 !important;
 }
 
 a {
-    font-family: 'Peddana', serif;
-    color: #96B6C5 !important;
-    
+  font-family: "Peddana", serif;
+  color: #96b6c5 !important;
+}
+/* color: #adc4ce; */
+
+.carousel-caption > p,
+.carousel-caption > h4 {
+  color: #4a4a4a;
 }
 
+/* .d-block {
+  color: #adc4ce;
+} */
+* {
+  font-family: "Crimson Text", serif;
+  color: #4a4a4a;
+}
+
+.smallCardtext {
+  color: #adc4ce;
+}
+
+.cardPrice {
+  color: #96b6c5;
+}
 /* .card{
     height: 20% !important;
     
